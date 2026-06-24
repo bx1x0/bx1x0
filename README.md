@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Sultan</h1>
 
 <h3 align="center">Cloud & DevOps Engineer | Kubernetes Enthusiast | AWS Learner | Linux Lover</h3>
@@ -110,7 +109,6 @@ Building scalable cloud-native applications, automating infrastructure, and mast
 </a>
 </p>
 
----
 
 > *"Automate everything. Monitor everything. Keep learning."* 🚀
 ```
