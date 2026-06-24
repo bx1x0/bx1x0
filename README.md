@@ -1,30 +1,116 @@
-<h1 align="center">Hi ♟, I'm Sultan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+```md
+<h1 align="center">Hi 👋, I'm Sultan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bx1x0&label=Profile%20views&color=0e75b6&style=flat" alt="bx1x0" /> </p>
+<h3 align="center">Cloud & DevOps Engineer | Kubernetes Enthusiast | AWS Learner | Linux Lover</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bx1x0" alt="bx1x0" /></a> </p>
-
-- 🔭 I’m currently working on **Real-time Chat App**
-
-- 🌱 I’m currently learning **React.js, GSAP (GreenSock Animation Platform), WordPress customization, and DSA (Data Structures & Algorithms)**
-
-- 👯 I’m looking to collaborate on **Front-end projects, animations, and WordPress site development**
-
-- 🤝 I’m looking for help with **Advanced concepts in React, GSAP animations, WordPress customization, and optimization techniques**
-
-- 💬 Ask me about **React, WordPress, animations (GSAP), and modern front-end development.**
-
-- 📫 How to reach me **spotifydev1216@Gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sultan-khan-344438321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sultan-khan-344438321/" height="30" width="40" /></a>
-<a href="https://instagram.com/bx1x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bx1x0" height="30" width="40" /></a>
+<p align="center">
+Building scalable cloud-native applications, automating infrastructure, and mastering modern DevOps practices.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bx1x0&show_icons=true&locale=en&layout=compact" alt="bx1x0" /></p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bx1x0&label=Profile%20Views&color=0e75b6&style=flat" alt="bx1x0"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bx1x0&show_icons=true&locale=en" alt="bx1x0" /></p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bx1x0&theme=onedark&margin-w=10&margin-h=10" alt="bx1x0"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 BS Computer Science Student
+- ☁️ Passionate about **Cloud Computing, DevOps, and Platform Engineering**
+- 🔭 Currently building **Cloud-native & Kubernetes-based projects**
+- 🌱 Currently learning **AWS, Azure, Kubernetes, Terraform, Jenkins, GitHub Actions, Helm, ArgoCD, Prometheus & Grafana**
+- 💡 Interested in **CI/CD, Infrastructure as Code, Container Orchestration, Monitoring, and DevSecOps**
+- 🤝 Looking to collaborate on **Open Source DevOps, Kubernetes, and Cloud projects**
+- 💬 Ask me about **Linux, Docker, Kubernetes, AWS, Terraform, Jenkins, Python, Bash, Git, and CI/CD**
+- 🎯 Goal: Become a Cloud & DevOps Engineer
+
+---
+
+## ☁️ Current Focus
+
+- 🚀 Kubernetes & Microservices
+- 🐳 Docker & Containerization
+- ⚙️ CI/CD Automation
+- 🏗️ Infrastructure as Code (Terraform)
+- ☁️ AWS & Azure Cloud
+- 📊 Monitoring & Observability
+- 🔐 DevSecOps Best Practices
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="45"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="45"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="45"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="45"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" height="45"/></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" height="45"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="45"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="45"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="45"/></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="45"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="45"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- ☸️ Kubernetes Microservices Deployment
+- ⚙️ CI/CD Pipeline using Jenkins
+- 🐳 Dockerized Applications
+- ☁️ AWS Infrastructure with Terraform
+- 📊 Monitoring Stack with Prometheus & Grafana
+- 🚀 GitHub Actions Automation
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=bx1x0&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bx1x0&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=bx1x0&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sultan-khan-344438321">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/bx1x0">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+</p>
+
+---
+
+> *"Automate everything. Monitor everything. Keep learning."* 🚀
+```
